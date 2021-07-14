@@ -1,0 +1,12 @@
+.form-control:focus {
+    box-shadow: none;
+    border-color: #82e5ec;
+    margin-right: 2%;
+}
+
+
+
+.back:hover {
+    color: #682773;
+    cursor: pointer
+}
